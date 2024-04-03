@@ -79,77 +79,15 @@
         margin-left: 100px;
     }
 
-    .hd1{
-        margin-top: 10px;
-        margin-left: 70px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 15px;      
-    }
-
-    .hd1:hover{
-        color: #4f5d81;
-    }
-
-    .hd2{
-        margin-top: 10px;
-        margin-left: 70px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 15px;      
-    }
-
-    .hd2:hover{
-        color: #4f5d81;
-    }
-
-    .hd3{
-        margin-top: 10px;
-        margin-left: 70px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 15px;      
-    }
-
-    .hd3:hover{
-        color: #4f5d81;
-    }
-
-    .hd4{
-        margin-top: 10px;
-        margin-left: 70px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 15px;      
-    }
-
-    .hd4:hover{
-        color: #4f5d81;
-    }
-
-    .hd5{
-        margin-top: 10px;
-        margin-left: 70px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 10px;      
-    }
-
-    .hd5:hover{
-        color: #4f5d81;
-    }
-
-    .hd6{
-        margin-top: 10px;
-        margin-left: 70px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 15px;      
-    }
-
-    .hd6:hover{
-        color:#4f5d81;
+    .hd7{
+        margin-top: 8px;
     }
 
 
     .hd7 button{
         height: 40px;
         width: 140px;
-        margin-top: 2px;
+        margin-top: 0px;
         margin-left: 70px;
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         font-family: 15px;   
@@ -1336,77 +1274,10 @@
         margin-left: 100px;
     }
 
-    .hd1{
-        margin-top: 10px;
-        margin-left: 5px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 15px;      
-    }
-
-    .hd1:hover{
-        color: #4f5d81;
-    }
-
-    .hd2{
-        margin-top: 10px;
-        margin-left: 40px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 15px;      
-    }
-
-    .hd2:hover{
-        color: #4f5d81;
-    }
-
-    .hd3{
-        margin-top: 10px;
-        margin-left: 40px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 15px;      
-    }
-
-    .hd3:hover{
-        color: #4f5d81;
-    }
-
-    .hd4{
-        margin-top: 10px;
-        margin-left: 40px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 15px;      
-    }
-
-    .hd4:hover{
-        color: #4f5d81;
-    }
-
-    .hd5{
-        margin-top: 10px;
-        margin-left: 40px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 10px;      
-    }
-
-    .hd5:hover{
-        color: #4f5d81;
-    }
-
-    .hd6{
-        margin-top: 10px;
-        margin-left: 40px;
-        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        font-family: 15px;      
-    }
-
-    .hd6:hover{
-        color:#4f5d81;
-    }
-
-
     .hd7 button{
         height: 40px;
         width: 140px;
-        margin-top: 2px;
+       
         margin-left: 40px;
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         font-family: 15px;   
@@ -2357,22 +2228,6 @@
         color: #384871;     
     }
 
-    .M2{
-        height: 80px;
-        width: 80px;
-        background-color: #e5f3ff;
-        margin-left: 300px;
-        margin-top: 10px;
-        border: 2px solid transparent;
-        border-radius: 50%;
-    }
-
-    .M2 i{
-        font-size: 50px;
-        margin-left: 15px;
-        margin-top: 15px;
-        background-color: #e5f3ff;
-    }
 
     .footer2{
         height: 300px;
